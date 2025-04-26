@@ -84,7 +84,7 @@ random-name-generator/
 - Firefox
 - Safari
 - Edge
-- Opera
+  
 
 ## Contributing
 
