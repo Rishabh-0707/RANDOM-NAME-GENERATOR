@@ -7,7 +7,7 @@ A simple and intuitive web application that generates random names based on diff
 - **Customizable Name Generation**
   - Generate first names, last names, or both
   - Choose from multiple cultural origins (English, Nordic, Celtic)
-  - Instant name generation with a single click
+  - Instant name generation with a single click.
 
 - **User-Friendly Interface**
   - Clean, modern design with gradient background
@@ -16,7 +16,6 @@ A simple and intuitive web application that generates random names based on diff
 
 - **Additional Functionality**
   - Copy generated names to clipboard
-  - View history of previously generated names
   - Real-time validation of selected options
 
 ## Technologies Used
@@ -46,7 +45,7 @@ cd random-name-generator
    - Check/uncheck "Last Name" to include/exclude last names
    - Select one or more origins (English, Nordic, Celtic)
 
-2. Click the "Generate Name" button to create a new name
+2. Click the "Generate Name" button to create a name
 
 3. Use the "Copy to Clipboard" button to copy the generated name
 
