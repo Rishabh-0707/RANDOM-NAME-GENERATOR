@@ -1,6 +1,6 @@
 # Random Name Generator
 
-A simple and intuitive web application that generates random names based on different origins and preferences. The application allows users to generate both first names and last names from various cultural backgrounds.
+A simple and intuitive web application that generates random names based on different origins and preferences. The application allows users to generate both first names and last names(which are completely random)from various cultural backgrounds.
 
 ## Features
 
