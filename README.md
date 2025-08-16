@@ -2,7 +2,7 @@
 
 A simple and intuitive web application that generates random names based on different origins and preferences. The application allows users to generate both first names and last names(which are completely random)from various cultural backgrounds.
 
-## Features
+# Features
 
 - *Customizable Name Generation**
   - Generate first names, last names, or both
@@ -110,6 +110,7 @@ git push origin feature/AmazingFeature
 - Add favorite names list
 - Include export functionality for generated names
 - Add more customization options
+
 
 
 
