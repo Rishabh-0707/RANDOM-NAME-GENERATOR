@@ -7,7 +7,7 @@ A simple and intuitive web application that generates random names based on diff
 - **Customizable Name Generation**
   - Generate first names, last names, or both
   - Choose from multiple cultural origins (English, Nordic, Celtic)
-  - Instant name generation with a single click.
+
 
 - **User-Friendly Interface**
   - Clean, modern design with gradient background
@@ -110,3 +110,4 @@ git push origin feature/AmazingFeature
 - Add favorite names list
 - Include export functionality for generated names
 - Add more customization options
+
