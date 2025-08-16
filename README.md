@@ -9,7 +9,7 @@ A simple and intuitive web application that generates random names based on diff
   - Choose from multiple cultural origins (English, Nordic, Celtic)
 
 
-- **User-Friendly Interface**
+- *User-Friendly Interface**
   - Clean, modern design with gradient background
   - Responsive layout for all screen sizes
   - Intuitive checkboxes for selecting options
@@ -110,4 +110,5 @@ git push origin feature/AmazingFeature
 - Add favorite names list
 - Include export functionality for generated names
 - Add more customization options
+
 
